@@ -1,6 +1,8 @@
 # Showmax Streaming Service Movie Recommendation System.
 ## Applying Content-Based filtering and Matrix-Algebra to build a Movie Recommendation System with Pandas.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kay102dev/showmax-movie-recommendation-system/blob/main/notebooks/analysis.ipynb)
+
 ![img_1.png](./assets/img_1.png)
 
 ### Definition of Recommender Systems:
