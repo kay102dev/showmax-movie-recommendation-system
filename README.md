@@ -1,5 +1,5 @@
 # Showmax Streaming Service Movie Recommendation System.
-## Applying Content-Based filtering and Matrix-Algebra to build a Movie Recommendation System with Pandas.
+Applying Content-Based filtering and Matrix-Algebra to build a Movie Recommendation System with Pandas.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kay102dev/showmax-movie-recommendation-system/blob/main/notebooks/analysis.ipynb)
 
@@ -37,6 +37,8 @@ A summary of the tasks in this phase include:-
 * Removing irrelevant features. 
 * Applying descriptive Statistical moments.
 * One-Hot-Encoding categorical features and confirming proper data types.
+
+![img_2.png](./assets/img_2.png)
 
 3. **Content Based System:**
 Tasks here include:-
